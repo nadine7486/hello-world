@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hi humans! This is my first coursera lesson and I am trying to keep up with it :)
